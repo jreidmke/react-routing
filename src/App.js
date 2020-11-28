@@ -1,6 +1,10 @@
 import logo from './logo.svg';
 import './App.css';
 
+import Donuts from './Donuts';
+import FryBits from './FryBits'
+import Pizza from './Pizza';
+
 function App() {
   return (
     <div className="App">
